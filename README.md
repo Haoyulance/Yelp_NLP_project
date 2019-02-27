@@ -20,3 +20,4 @@ Implemented the Cosine_Similarity to do the review search engine, most of the to
 Designed the utility matrix of businesses and users to be used by the recommender. Built Item-item Collaborative Filtering Recommender, NMF Recommender, UVD Recommender. 
 # Summary 
 Clustering is a good unsupervised learning way to find some potential attributes which could be useful to make business decision. PCA is double-edged, since it reduces the dimensionality, at the same time, harms the accuracy. Because the principle components that explain much variance are possible less important to the prediction model. In this project, Logistic Regression did good job on the sentiment analysis. Next step I could try the Spark ALS to dessign the recommeder and RNN to do the sentiment analysis. 
+
